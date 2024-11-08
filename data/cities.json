@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,19 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
-    },
-    {
-      "cityName": "Barcelona",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-18T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 294820945
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -46,7 +34,55 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "206c",
+      "cityName": "Vancouver",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-11-08T23:15:50.901Z",
+      "notes": "home",
+      "position": {
+        "lat": "45.75530752680575",
+        "lng": "-122.70458221435548"
+      }
+    },
+    {
+      "id": "c2e2",
+      "cityName": "Northwest Trinity",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-11-08T23:25:06.463Z",
+      "notes": "gdfg",
+      "position": {
+        "lat": "40.91351257612758",
+        "lng": "-123.37646484375001"
+      }
+    },
+    {
+      "id": "edb1",
+      "cityName": "Arthur",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-11-08T23:30:57.373Z",
+      "notes": "terssaf",
+      "position": {
+        "lat": "41.4977702772013",
+        "lng": "-101.86747283898386"
+      }
+    },
+    {
+      "id": "cd76",
+      "cityName": "Unorganized Division No. 18, Saskatchewan",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-11-08T23:32:03.901Z",
+      "notes": "",
+      "position": {
+        "lat": "57.51582286553883",
+        "lng": "-106.34765625000001"
+      }
     }
   ]
 }

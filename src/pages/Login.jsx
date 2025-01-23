@@ -8,7 +8,7 @@ import Button from '../Components/Button';
 export default function Login() {
   // PRE-FILL FOR DEV PURPOSES
   const [email, setEmail] = useState('jack@example.com');
-  const [password, setPassword] = useState('qwerty');
+  const [password, setPassword] = useState('DgrT7&LZE@2M*Qh%P');
   const { login, isAuthenticated } = useAuthContext();
   const navigate = useNavigate();
 

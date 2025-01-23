@@ -7,7 +7,7 @@ const initialState = { user: null, isAuthenticated: false };
 const FAKE_USER = {
   name: 'Jack',
   email: 'jack@example.com',
-  password: 'qwerty',
+  password: 'DgrT7&LZE@2M*Qh%P',
   avatar: 'https://i.pravatar.cc/100?u=zz',
 };
 
